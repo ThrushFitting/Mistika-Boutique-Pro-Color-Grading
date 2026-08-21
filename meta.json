@@ -1,0 +1,29 @@
+{
+  "repo": "mistika-boutique-pro-color-grading",
+  "product": "Mistika Boutique Pro Color Grading",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://mistika.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "mistika",
+    "color-grading",
+    "color-correction",
+    "film-grading",
+    "cinema-color",
+    "post-production",
+    "di-suite",
+    "video-color",
+    "mistika-setup-failed-fix",
+    "how-to-install-mistika",
+    "mistika-windows",
+    "video-tools",
+    "windows-tools",
+    "color-utility"
+  ],
+  "stars_cache": 19,
+  "nexpath_slug": "mistika",
+  "nexpath_app_name": "Mistika Boutique"
+}
